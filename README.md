@@ -8,7 +8,7 @@
 
 ## 環境
 *  使用的lib可由requirement.txt 匯入
-*  pip install -r requirements.txt 
+*   conda install --yes --file requirements.txt
 *  使用 mysql 作為 db ，建立 名稱為 test 的db，並匯入category_type.sql 
 *  修改連線資訊 'mysql+pymysql://testadmin:testadmin@localhost:3306/test?charset=utf8mb4'
 輸入連線資訊
